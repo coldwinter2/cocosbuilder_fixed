@@ -7,6 +7,10 @@ You Can check out and compile it easily.
 
 This tools is Better than CocosStudio.
 
-## Good Luck
+## If you want to build from offical github
+
+[This may help you to do that.](http://coldwinter.cc/2017/07/compile-cocosbuilder/)
+
+### Good Luck
 
 
